@@ -9,6 +9,6 @@ redirect_from:
 ---
 Hello! I'm Andy and I work at the U.S. Department of Justice, Antitrust Division. Before working at the Antitrust Division, I interned in management consulting and economic consulting. I graduated from Northwestern with a double major in Economics and Mathematics.
 
-In my free time, I like to read academic papers (mostly behavioral economics and antitrust law/economics), teach myself new things, and running long distances (the goal is sub 2:55). I'm currently learning Networks through Professors David Easley and Jon Kleinberg's textbook and (re)learning Probability Theory because, as it turns out, it's a really useful thing to know. 
+In my free time, I like to read academic papers (mostly behavioral economics and antitrust law/economics), teach myself new things, and run long distances (the goal is a sub 2:55 marathon). I'm currently learning Networks through Professors David Easley and Jon Kleinberg's textbook and (re)learning Probability Theory because, as it turns out, it's a really useful thing to know. 
 
 I decided to create this website because (1) I want to blog my thoughts on the papers that I've read and (2) post my notes for the subjects that I've taught myself. If you've stumbled upon my page, then I hope you can learn a thing or two. And if not, thanks for visiting!
