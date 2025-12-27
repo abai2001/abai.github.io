@@ -23,7 +23,7 @@ repository               : "abai2001/abai2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Andy_Bai.jpeg"
   name             : "Andy Bai"
   pronouns         : # example: "she/her"  
   bio              : "Hello World!"
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : andybai18
   lastfm           : # Username
   linkedin         : andy-bai-214076243
   mastodon         : # URL
